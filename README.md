@@ -9,7 +9,7 @@
 [Link For Source Code](https://github.com/9648162-cyber/gamedev2026-)
 
 ## Game Overview
-This is a space game that you shoot rocks, power ups, and also there is a boss
+This is a space game that you can shoot rocks, get power ups, and also there is a boss
 
 ## How To Run
 Made with Processing  
