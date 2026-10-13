@@ -8,7 +8,7 @@
 
 [Link For Source Code](https://github.com/9648162-cyber/gamedev2026-)
 
-## Game overview
+## Game Overview
 It is a space game that you shoot rocks, that have power ups, and also there is a boss
 
 ## How To Run
@@ -16,10 +16,10 @@ Made with processing
 processing version 4.0.1  
 There is sound  
 
-##control
+## How To Play The Game 
 To start the game you press any key you want 
 mouse is use to control the spaceship and to shoot lasers is to press the mouse 
 
-## Stuff I have add
+## Added New Stuff
 I have added a boss and added a game over screen 
    
