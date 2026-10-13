@@ -12,7 +12,7 @@
 This is a space game that you shoot rocks, power ups, and also there is a boss
 
 ## How To Run
-Made with processing 
+Made with Processing 
 Processing version 4.0.1  
 There is sound, it is a laser sound   
 
